@@ -5,10 +5,6 @@ This project was developed as part of the **GenAI Exchange Hackathon** to levera
 
 ---
 
-## 🚀 Live Deployment
-
-The project is live and deployed on Vercel. You can access it here:  
-👉 **[https://mindmate-gen-ai.vercel.app/auth](https://mindmate-gen-ai.vercel.app/auth)**
 
 ---
 
