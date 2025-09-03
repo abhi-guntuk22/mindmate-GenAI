@@ -1,73 +1,95 @@
-# Welcome to your Lovable project
+# Mindmate Buddhi
 
-## Project info
+**Mindmate Buddhi** is a mental wellness web application designed to provide users with simple tools and resources for self-care, mindfulness, and positivity.
+This project was developed as part of the **GenAI Exchange Hackathon** to leverage technology for improving mental health accessibility and awareness.
 
-**URL**: https://lovable.dev/projects/d72edd52-eb87-4c2b-bc7d-5ea0abfe5f50
+---
 
-## How can I edit this code?
+## 🚀 Live Deployment
 
-There are several ways of editing your application.
+The project is live and deployed on Vercel. You can access it here:
+**[https://mindmate-gen-ai.vercel.app/auth](https://mindmate-gen-ai.vercel.app/auth)**
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d72edd52-eb87-4c2b-bc7d-5ea0abfe5f50) and start prompting.
+## 🎯 Project Overview
+Mindmate Buddhi aims to create a supportive platform for mental health and wellness by combining intuitive design with scalable technology.
+The idea is to make mental well-being tools simple, engaging, and accessible for everyone.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✨ Features
+- 🧘‍♂️ **Mindfulness Tools:** Simple activities and exercises
+- 📱 **Responsive UI:** Works on desktop and mobile
+- 🎨 **Clean Design:** Easy navigation and minimal interface
+- 🚀 **Hackathon Ready:** Fast setup and extendable structure
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
+- **Frontend:** React + Vite
+- **Styling:** Tailwind CSS
+- **Version Control:** Git & GitHub
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🚀 Getting Started
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 1️⃣ Clone the repository
+```bash
+git clone [https://github.com/abhi-guntuk22/mindmate-buddhi.git](https://github.com/abhi-guntuk22/mindmate-buddhi.git)
+cd mindmate-buddhi
+2️⃣ Install dependencies
+Bash
 
-# Step 3: Install the necessary dependencies.
-npm i
+npm install
+3️⃣ Run the project
+Bash
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
+By default, the app runs on 👉 http://localhost:5173
 
-**Edit a file directly in GitHub**
+📂 Folder Structure
+mindmate-buddhi/
+├── public/
+├── src/
+│  ├── components/
+│  ├── pages/
+│  └── App.jsx
+├── package.json
+└── README.md
+💡 For the Hackathon
+This project was created for the GenAI Exchange Hackathon.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Focus Areas:
 
-**Use GitHub Codespaces**
+Using technology for social good
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Exploring the impact of AI + web technologies in mental wellness
 
-## What technologies are used for this project?
+Building a base project that can be extended with GenAI APIs (like chatbots, sentiment analysis, or recommendation systems)
 
-This project is built with:
+Future Scope:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Integration of AI-powered chatbots for guided support
 
-## How can I deploy this project?
+Mood tracking with data visualization
 
-Simply open [Lovable](https://lovable.dev/projects/d72edd52-eb87-4c2b-bc7d-5ea0abfe5f50) and click on Share -> Publish.
+Personalized content recommendations
 
-## Can I connect a custom domain to my Lovable project?
+📌 Contribution
+Contributions are always welcome!
 
-Yes, you can!
+Fork the repo
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Create a branch (git checkout -b feature-name)
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Commit your changes
+
+Push and open a Pull Request
+
+📄 License
+This project is licensed under the MIT License.
+
+This video provides a straightforward, step-by-step guide on how to deploy a GitHub project to Vercel. [How To Deploy GitHub Project on Vercel (Step By Step)](https://www.youtube.com/watch?v=E8xaV6fiTaA)
+http://googleusercontent.com/youtube_content/
